@@ -1,0 +1,311 @@
+Вивод з консолі:
+Starting the evolution process
+
+Evaluated 500 individuals
+
+===== Generation 0
+Evaluated 297 individuals
+Min = 58.0 , Max = 75.0
+Average = 70.43 , Standard deviation = 2.91
+
+===== Generation 1
+Evaluated 303 individuals
+Min = 63.0 , Max = 75.0
+Average = 72.44 , Standard deviation = 2.16
+
+===== Generation 2
+Evaluated 310 individuals
+Min = 65.0 , Max = 75.0
+Average = 73.31 , Standard deviation = 1.6
+
+===== Generation 3
+Evaluated 273 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.76 , Standard deviation = 1.41
+
+===== Generation 4
+Evaluated 309 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.87 , Standard deviation = 1.35
+
+===== Generation 5
+Evaluated 312 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.83 , Standard deviation = 1.36
+
+===== Generation 6
+Evaluated 308 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.76 , Standard deviation = 1.5
+
+===== Generation 7
+Evaluated 314 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.85 , Standard deviation = 1.39
+
+===== Generation 8
+Evaluated 309 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.84 , Standard deviation = 1.48
+
+===== Generation 9
+Evaluated 288 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.85 , Standard deviation = 1.47
+
+===== Generation 10
+Evaluated 306 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.83 , Standard deviation = 1.42
+
+===== Generation 11
+Evaluated 301 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.83 , Standard deviation = 1.45
+
+===== Generation 12
+Evaluated 312 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.87 , Standard deviation = 1.35
+
+===== Generation 13
+Evaluated 310 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.7 , Standard deviation = 1.58
+
+===== Generation 14
+Evaluated 289 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.77 , Standard deviation = 1.57
+
+===== Generation 15
+Evaluated 312 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.92 , Standard deviation = 1.37
+
+===== Generation 16
+Evaluated 281 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.92 , Standard deviation = 1.5
+
+===== Generation 17
+Evaluated 304 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.03 , Standard deviation = 1.34
+
+===== Generation 18
+Evaluated 314 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.96 , Standard deviation = 1.38
+
+===== Generation 19
+Evaluated 317 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.71 , Standard deviation = 1.55
+
+===== Generation 20
+Evaluated 297 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.77 , Standard deviation = 1.57
+
+===== Generation 21
+Evaluated 290 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.99 , Standard deviation = 1.31
+
+===== Generation 22
+Evaluated 299 individuals
+Min = 66.0 , Max = 75.0
+Average = 73.89 , Standard deviation = 1.49
+
+===== Generation 23
+Evaluated 292 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.92 , Standard deviation = 1.34
+
+===== Generation 24
+Evaluated 312 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.83 , Standard deviation = 1.31
+
+===== Generation 25
+Evaluated 294 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.89 , Standard deviation = 1.31
+
+===== Generation 26
+Evaluated 307 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.93 , Standard deviation = 1.31
+
+===== Generation 27
+Evaluated 303 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.86 , Standard deviation = 1.43
+
+===== Generation 28
+Evaluated 293 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.02 , Standard deviation = 1.27
+
+===== Generation 29
+Evaluated 315 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.9 , Standard deviation = 1.37
+
+===== Generation 30
+Evaluated 280 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.07 , Standard deviation = 1.19
+
+===== Generation 31
+Evaluated 277 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.07 , Standard deviation = 1.3
+
+===== Generation 32
+Evaluated 289 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.0 , Standard deviation = 1.34
+
+===== Generation 33
+Evaluated 297 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.9 , Standard deviation = 1.37
+
+===== Generation 34
+Evaluated 288 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.02 , Standard deviation = 1.3
+
+===== Generation 35
+Evaluated 310 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.04 , Standard deviation = 1.28
+
+===== Generation 36
+Evaluated 298 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.04 , Standard deviation = 1.34
+
+===== Generation 37
+Evaluated 283 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.13 , Standard deviation = 1.25
+
+===== Generation 38
+Evaluated 291 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.12 , Standard deviation = 1.1
+
+===== Generation 39
+Evaluated 306 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.01 , Standard deviation = 1.24
+
+===== Generation 40
+Evaluated 294 individuals
+Min = 67.0 , Max = 75.0
+Average = 73.97 , Standard deviation = 1.31
+
+===== Generation 41
+Evaluated 296 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.08 , Standard deviation = 1.22
+
+===== Generation 42
+Evaluated 305 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.09 , Standard deviation = 1.12
+
+===== Generation 43
+Evaluated 300 individuals
+Min = 69.0 , Max = 75.0
+Average = 73.99 , Standard deviation = 1.22
+
+===== Generation 44
+Evaluated 257 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.15 , Standard deviation = 1.18
+
+===== Generation 45
+Evaluated 311 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.01 , Standard deviation = 1.26
+
+===== Generation 46
+Evaluated 322 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.08 , Standard deviation = 1.15
+
+===== Generation 47
+Evaluated 293 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.11 , Standard deviation = 1.19
+
+===== Generation 48
+Evaluated 333 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.97 , Standard deviation = 1.23
+
+===== Generation 49
+Evaluated 288 individuals
+Min = 70.0 , Max = 75.0
+Average = 74.03 , Standard deviation = 1.16
+
+===== Generation 50
+Evaluated 286 individuals
+Min = 66.0 , Max = 75.0
+Average = 74.04 , Standard deviation = 1.31
+
+===== Generation 51
+Evaluated 309 individuals
+Min = 70.0 , Max = 75.0
+Average = 74.08 , Standard deviation = 1.21
+
+===== Generation 52
+Evaluated 305 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.1 , Standard deviation = 1.23
+
+===== Generation 53
+Evaluated 305 individuals
+Min = 67.0 , Max = 75.0
+Average = 74.03 , Standard deviation = 1.33
+
+===== Generation 54
+Evaluated 290 individuals
+Min = 70.0 , Max = 75.0
+Average = 74.15 , Standard deviation = 1.11
+
+===== Generation 55
+Evaluated 302 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.07 , Standard deviation = 1.15
+
+===== Generation 56
+Evaluated 306 individuals
+Min = 68.0 , Max = 75.0
+Average = 73.96 , Standard deviation = 1.32
+
+===== Generation 57
+Evaluated 306 individuals
+Min = 68.0 , Max = 75.0
+Average = 74.02 , Standard deviation = 1.27
+
+===== Generation 58
+Evaluated 276 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.15 , Standard deviation = 1.18
+
+===== Generation 59
+Evaluated 288 individuals
+Min = 69.0 , Max = 75.0
+Average = 74.12 , Standard deviation = 1.24
+
+==== End of evolution
+
+Best individual:
+[1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1]
+
+Number of ones: 45
